@@ -1,0 +1,23 @@
+library(plyr)
+library(FD)
+library(vegan)
+library(ape)
+library(magick)
+require(evobiR)
+require(phytools)
+require(geiger)
+require(picante)
+require(dplyr)
+require(rlist)
+require(RColorBrewer)
+library(data.table)
+library(ggplot2)
+library(ggsignif)
+# library(tidyverse)
+# library(ggpubr)
+
+jnk1 <- RColorBrewer::brewer.pal(12, "Paired")
+summer_colors <- rep(jnk1[4], 49)
+winter_colors <- rep(jnk1[2], 49)
+summer_pch = 16
+winter_pch = 17
