@@ -1,0 +1,485 @@
+AllTipsSchumm,AllSpecies_MM,Schumm_MM_DirectMatch,Extra_in_MM,Schumm_OrigNames,ChangeNameInSchumm,Final_Extra_in_MM,DownloadJetzTree
+Abroscopus_albogularis,Abroscopus_schisticeps,Abroscopus_schisticeps,Accipiter_nisus,Paradoxornis_atrosuperciliaris,Chleuasicus_atrosuperciliaris,Accipiter_nisus,Abroscopus albogularis
+Abroscopus_schisticeps,Abroscopus_superciliaris,Abroscopus_superciliaris,Accipiter_trivirgatus,Dicaeum_melanoxanthum,Dicaeum_melanozanthum,Accipiter_trivirgatus,Abroscopus schisticeps
+Abroscopus_superciliaris,Accipiter_nisus,Aceros_nipalensis,Accipiter_virgatus,Dicrurus_annectans,Dicrurus_annectens,Accipiter_virgatus,Abroscopus superciliaris
+Aceros_nipalensis,Accipiter_trivirgatus,Actinodura_egertoni,Aceros_nipalensis,Pitta_nipalensis,Hydrornis_nipalensis,Arborophila_mandellii,Accipiter trivirgatus
+Aceros_undulatus,Accipiter_virgatus,Aegithalos_concinnus,Anthipes_monileger,Schoeniparus_cinerea,Schoeniparus_cinereus,Arborophila_rufogularis,Aceros nipalensis
+Acridotheres_fuscus,Aceros_nipalensis,Aegithalos_iouschistos,Arborophila_mandellii,Cyornis_magnirostris,Cyornis_banyumas,Arborophila_torqueola,Aceros undulatus
+Acridotheres_ginginianus,Actinodura_egertoni,Aethopyga_gouldiae,Arborophila_rufogularis,Dryonastes_gularis,Garrulax_gularis,Buteo_refectus,Acridotheres tristis
+Acridotheres_grandis,Aegithalos_concinnus,Aethopyga_ignicauda,Arborophila_torqueola,Carduelis_spinoides,Chloris_spinoides,Dinopium_javanese,Actinodura egertoni
+Acridotheres_tristis,Aegithalos_iouschistos,Aethopyga_nipalensis,Buteo_refectus,Megalaima_lineata,Psilopogon_lineatus,Ficedula_albicilla,Aegithalos concinnus
+Actinodura_egertoni,Aethopyga_gouldiae,Aethopyga_saturata,Caprodacus_sipahi,Ficedula_monileger,Anthipes_monileger,Gallus_gallus,Aegithina tiphia
+Actinodura_nipalensis,Aethopyga_ignicauda,Aethopyga_siparaja,Caprodacus_subhimachalus,Haematospiza_sipahi,Carpodacus_sipahi,Hypothymis_azurea,Aethopyga gouldiae
+Aegithalos_concinnus,Aethopyga_nipalensis,Alcippe_nipalensis,Cettia_castaneocoronata,Propyrrhula_subhimachala,Carpodacus_subhimachalus,Lophotriorchis_kienerii,Aethopyga nipalensis
+Aegithalos_iouschistos,Aethopyga_saturata,Alophoixus_flaveolus,Chelidorhynx_hypoxanthus,Tesia_castaneocoronata,Cettia_castaneocoronata,Lophura_leucomelanos,Aethopyga saturata
+Aegithina_tiphia,Aethopyga_siparaja,Anthus_hodgsoni,Cholornis_unicolor,Chelidorhynx_hypoxantha,Chelidorhynx_hypoxanthus,Mixornis_gularis,Aethopyga siparaja
+Aerodramus_brevirostris,Alcippe_nipalensis,Arachnothera_magna,Chrysominla_strigula,Paradoxornis_unicolor,Cholornis_unicolor,Nisaetus_nipalensis,Alcippe nipalensis
+Aethopyga_gouldiae,Alophoixus_flaveolus,Brachypteryx_montana,Chrysophlegma_flavinucha,Minla_strigula,Chrysominla_strigula,Pernis_ptilorhynchus,Alophoixus flaveolus
+Aethopyga_ignicauda,Anthipes_monileger,Buceros_bicornis,Cyanoderma_chrysaeum,Picus_flavinucha,Chrysophlegma_flavinucha,Polyplectron_bicalcaratum,Anthracoceros albirostris
+Aethopyga_nipalensis,Anthus_hodgsoni,Cacomantis_merulinus,Cyanoderma_ruficeps,Stachyridopsis_chrysaea,Cyanoderma_chrysaeum,Pteruthius_aeralatus,Arachnothera magna
+Aethopyga_saturata,Arachnothera_magna,Cacomantis_sonneratii,Dinopium_javanese,Stachyridopsis_ruficeps,Cyanoderma_ruficeps,Sibia_waldeni,Arborophila mandellii
+Aethopyga_siparaja,Arborophila_mandellii,Carpodacus_erythrinus,Elachura_formosa,Spelaeornis_formosus,Elachura_formosa,Spilornis_cheela,Arborophila rufogularis
+Alauda_gulgula,Arborophila_rufogularis,Certhia_discolor,Ficedula_albicilla,Muscicapella_hodgsoni,Ficedula_hodgsoni,Spinus_thibetanus,Arborophila torqueola
+Alcedo_atthis,Arborophila_torqueola,Cettia_castaneocoronata,Ficedula_hodgsoni,Dryonastes_caerulatus,Garrulax_caerulatus,Tragopan_blythii,Batrachostomus hodgsoni
+Alcedo_hercules,Blythipicus_pyrrhotis,Chalcophaps_indica,Gallus_gallus,Ianthocincla_ocellata,Garrulax_ocellatus,,Blythipicus pyrrhotis
+Alcedo_meninting,Brachypteryx_montana,Chloropsis_hardwickii,Garrulax_caerulatus,Cettia_brunnescens,Horornis_brunnescens,,Brachypteryx leucophrys
+Alcippe_nipalensis,Buceros_bicornis,Cinclidium_frontale,Garrulax_ocellatus,Cettia_fortipes,Horornis_fortipes,,Brachypteryx montana
+Alophoixus_flaveolus,Buteo_refectus,Cissa_chinensis,Horornis_brunnescens,Hypsipetes_mcclellandi,Ixos_mcclellandii,,Buceros bicornis
+Amandava_amandava,Cacomantis_merulinus,Culicicapa_ceylonensis,Horornis_fortipes,Coracina_melaschistos,Lalage_melaschistos,,Cacomantis merulinus
+Anthracoceros_albirostris,Cacomantis_sonneratii,Cutia_nipalensis,Hypothymis_azurea,Heterophasia_annectans,Leioptila_annectens,,Cacomantis sonneratii
+Anthus_hodgsoni,Caprodacus_sipahi,Cyornis_unicolor,Ixos_mcclellandii,Parus_spilonotus,Machlolophus_spilonotus,,Carduelis spinoides
+Anthus_roseatus,Caprodacus_subhimachalus,Dendrocitta_formosae,Lalage_melaschistos,Pericrocotus_speciosus,Pericrocotus_flammeus,,Certhia discolor
+Anthus_rufulus,Carpodacus_erythrinus,Dendrocitta_frontalis,Leioptila_annectens,Seicercus_castaniceps,Phylloscopus_castaniceps,,Cettia brunnescens
+Apus_acuticauda,Certhia_discolor,Dendrocopos_cathpharius,Lophotriorchis_kienerii,Phylloscopus_affinis,Phylloscopus_intermedius,,Cettia brunnifrons
+Apus_affinis,Cettia_castaneocoronata,Dendrocopos_darjellensis,Lophura_leucomelanos,Seicercus_poliogenys,Phylloscopus_poliogenys,,Cettia fortipes
+Apus_pacificus,Chalcophaps_indica,Dicaeum_ignipectus,Machlolophus_spilonotus,Seicercus_whistleri,Phylloscopus_whistleri,,Chalcophaps indica
+Arachnothera_longirostra,Chelidorhynx_hypoxanthus,Dicrurus_aeneus,Periparus_ater,Xiphirhynchus_superciliaris,Pomatorhinus_superciliaris,,Chelidorhynx hypoxantha
+Arachnothera_magna,Chloropsis_hardwickii,Dicrurus_hottentottus,Periparus_rubidiventris,Megalaima_virens,Psilopogon_virens,,Chloropsis aurifrons
+Artamus_fuscus,Cholornis_unicolor,Dicrurus_leucophaeus,Pernis_ptilorhynchus,Paradoxornis_ruficeps,Psittiparus_ruficeps,,Chloropsis hardwickii
+Athene_brama,Chrysominla_strigula,Dicrurus_paradiseus,Mixornis_gularis,Aceros_undulatus,Rhyticeros_undulatus,,Chrysococcyx maculatus
+Athene_noctua,Chrysophlegma_flavinucha,Dicrurus_remifer,Nisaetus_nipalensis,Minla_cyanouroptera,Siva_cyanouroptera,,Chrysocolaptes lucidus
+Batrachostomus_hodgsoni,Cinclidium_frontale,Dryonastes_gularis,Pericrocotus_flammeus,Paradoxornis_nipalensis,Suthora_nipalensis,,Cinclidium frontale
+Blythipicus_pyrrhotis,Cissa_chinensis,Ducula_badia,Phylloscopus_castaniceps,Tephrodornis_gularis,Tephrodornis_virgatus,,Cissa chinensis
+Brachypteryx_hyperythra,Culicicapa_ceylonensis,Enicurus_immaculatus,Phylloscopus_fuscatus,Staphida_castaniceps,Yuhina_castaniceps,,Clamator coromandus
+Brachypteryx_leucophrys,Cutia_nipalensis,Enicurus_schistaceus,Phylloscopus_intermedius,Parus_ater,Periparus_ater,,Cochoa purpurea
+Brachypteryx_montana,Cyanoderma_chrysaeum,Erpornis_zantholeuca,Phylloscopus_poliogenys,Parus_rubidiventris,Periparus_rubidiventris,,Cochoa viridis
+Bradypterus_luteoventris,Cyanoderma_ruficeps,Eumyias_thalassinus,Yuhina_castaniceps,Phylloscopus_affinis,Phylloscopus_fuscatus,,Columba pulchricollis
+Bradypterus_mandelli,Cyornis_unicolor,Ficedula_hyperythra,Phylloscopus_whistleri,Carpodacus_nipalensis,Procarduelis_nipalensis,,Copsychus malabaricus
+Bradypterus_thoracicus,Dendrocitta_formosae,Ficedula_strophiata,Polyplectron_bicalcaratum,Megalaima_asiatica,Psilopogon_asiaticus,,Coracina melaschistos
+Bubo_bengalensis,Dendrocitta_frontalis,Ficedula_tricolor,Pomatorhinus_superciliaris,Megalaima_australis,Psilopogon_australis,,Cuculus micropterus
+Bubo_nipalensis,Dendrocopos_cathpharius,Fulvetta_ludlowi,Procarduelis_nipalensis,Megalaima_franklinii,Psilopogon_franklinii,,Cuculus poliocephalus
+Buceros_bicornis,Dendrocopos_darjellensis,Garrulax_albogularis,Psilopogon_asiaticus,Sphenocichla_humei,Stachyris_humei,,Cuculus saturatus
+Cacomantis_merulinus,Dicaeum_ignipectus,Garrulax_leucolophus,Psilopogon_australis,Trochalopteron_erythrocephalum,Trochalopteron_erythrocephalus,,Culicicapa ceylonensis
+Cacomantis_passerinus,Dicrurus_aeneus,Garrulax_pectoralis,Psilopogon_franklinii,,,,Cutia nipalensis
+Cacomantis_sonneratii,Dicrurus_hottentottus,Glaucidium_brodiei,Psilopogon_virens,,,,Cyornis magnirostris
+Calandrella_acutirostris,Dicrurus_leucophaeus,Glaucidium_cuculoides,Psittiparus_ruficeps,,,,Cyornis poliogenys
+Calandrella_raytal,Dicrurus_paradiseus,Grammatoptila_striata,Trochalopteron_erythrocephalus,,,,Cyornis unicolor
+Caprimulgus_affinis,Dicrurus_remifer,Harpactes_erythrocephalus,Pycnonotus_striatus,,,,Dendrocitta formosae
+Caprimulgus_jotaka,Dinopium_javanese,Harpactes_wardi,Pyrrhoplectes_epauletta,,,,Dendrocitta frontalis
+Caprimulgus_macrurus,Dryonastes_gularis,Hemipus_picatus,Rhyticeros_undulatus,,,,Dendrocopos cathpharius
+Carduelis_spinoides,Ducula_badia,Hemixos_flavala,Sibia_waldeni,,,,Dendrocopos darjellensis
+Carpodacus_edwardsii,Elachura_formosa,Heterophasia_picaoides,Siva_cyanouroptera,,,,Dendrocopos hyperythrus
+Carpodacus_erythrinus,Enicurus_immaculatus,Heterophasia_pulchella,Pteruthius_aeralatus,,,,Dendrocopos macei
+Carpodacus_nipalensis,Enicurus_schistaceus,Hierococcyx_sparverioides,Spilornis_cheela,,,,Dicaeum cruentatum
+Carpodacus_pulcherrimus,Erpornis_zantholeuca,Hypsipetes_leucocephalus,Spinus_thibetanus,,,,Dicaeum ignipectus
+Carpodacus_rodopeplus,Eumyias_thalassinus,Ictinaetus_malaiensis,Stachyris_humei,,,,Dicaeum melanoxanthum
+Carpodacus_rubescens,Ficedula_albicilla,Irena_puella,Suthora_nipalensis,,,,Dicrurus aeneus
+Carpodacus_rubicilloides,Ficedula_hodgsoni,Liocichla_phoenicea,Tephrodornis_virgatus,,,,Dicrurus annectans
+Carpodacus_thura,Ficedula_hyperythra,Lioparus_chrysotis,Tragopan_blythii,,,,Dicrurus hottentottus
+Carpodacus_vinaceus,Ficedula_strophiata,Loriculus_vernalis,,,,,Dicrurus leucophaeus
+Centropus_bengalensis,Ficedula_tricolor,Macropygia_unchall,,,,,Dicrurus paradiseus
+Centropus_sinensis,Fulvetta_ludlowi,Melanochlora_sultanea,,,,,Dicrurus remifer
+Cephalopyrus_flammiceps,Gallus_gallus,Minla_ignotincta,,,,,Garrulax caerulatus
+Certhia_discolor,Garrulax_albogularis,Monticola_rufiventris,,,,,Garrulax gularis
+Certhia_familiaris,Garrulax_caerulatus,Myophonus_caeruleus,,,,,Ducula aenea
+Certhia_nipalensis,Garrulax_leucolophus,Myzornis_pyrrhoura,,,,,Ducula badia
+Ceryle_lugubris,Garrulax_ocellatus,Napothera_epilepidota,,,,,Enicurus immaculatus
+Ceryle_rudis,Garrulax_pectoralis,Niltava_grandis,,,,,Enicurus maculatus
+Cettia_brunnescens,Glaucidium_brodiei,Niltava_macgrigoriae,,,,,Enicurus schistaceus
+Cettia_brunnifrons,Glaucidium_cuculoides,Nucifraga_caryocatactes,,,,,Erpornis zantholeuca
+Cettia_flavolivacea,Grammatoptila_striata,Nyctyornis_athertoni,,,,,Eumyias thalassinus
+Cettia_fortipes,Harpactes_erythrocephalus,Oriolus_traillii,,,,,Ficedula monileger
+Cettia_major,Harpactes_wardi,Orthotomus_sutorius,,,,,Ficedula sapphira
+Cettia_pallidipes,Hemipus_picatus,Parus_monticolus,,,,,Ficedula strophiata
+Ceyx_erithaca,Hemixos_flavala,Pellorneum_ruficeps,,,,,Ficedula tricolor
+Chaimarrornis_leucocephalus,Heterophasia_picaoides,Pericrocotus_brevirostris,,,,,Ficedula westermanni
+Chalcoparia_singalensis,Heterophasia_pulchella,Pericrocotus_ethologus,,,,,Alcippe ludlowi
+Chalcophaps_indica,Hierococcyx_sparverioides,Pericrocotus_solaris,,,,,Gallus gallus
+Chelidorhynx_hypoxantha,Horornis_brunnescens,Phoenicurus_frontalis,,,,,Gampsorhynchus rufulus
+Chloropsis_aurifrons,Horornis_fortipes,Phoenicurus_schisticeps,,,,,Garrulax albogularis
+Chloropsis_hardwickii,Hypsipetes_leucocephalus,Phyllergates_cucullatus,,,,,Garrulax leucolophus
+Chrysococcyx_maculatus,Ictinaetus_malaiensis,Phylloscopus_chloronotus,,,,,Garrulax monileger
+Chrysococcyx_xanthorhynchus,Irena_puella,Phylloscopus_maculipennis,,,,,Garrulax pectoralis
+Chrysocolaptes_lucidus,Ixos_mcclellandii,Phylloscopus_pulcher,,,,,Gecinulus grantia
+Chrysomma_sinense,Lalage_melaschistos,Phylloscopus_reguloides,,,,,Glaucidium brodiei
+Cinclidium_frontale,Leioptila_annectens,Phylloscopus_trochiloides,,,,,Glaucidium cuculoides
+Cinclus_cinclus,Liocichla_phoenicea,Phylloscopus_xanthoschistos,,,,,Gracula religiosa
+Cinclus_pallasii,Lioparus_chrysotis,Picus_chlorolophus,,,,,Garrulax striatus
+Cinnyris_asiaticus,Lophotriorchis_kienerii,Pnoepyga_albiventer,,,,,Haematospiza sipahi
+Cissa_chinensis,Lophura_leucomelanos,Pnoepyga_pusilla,,,,,Halcyon coromanda
+Cisticola_exilis,Loriculus_vernalis,Pomatorhinus_ferruginosus,,,,,Harpactes erythrocephalus
+Cisticola_juncidis,Machlolophus_spilonotus,Pomatorhinus_ruficollis,,,,,Harpactes wardi
+Clamator_coromandus,Macropygia_unchall,Pomatorhinus_schisticeps,,,,,Hemipus picatus
+Cochoa_purpurea,Melanochlora_sultanea,Prinia_atrogularis,,,,,Hemixos flavala
+Cochoa_viridis,Minla_ignotincta,Prunella_immaculata,,,,,Heterophasia annectens
+Columba_hodgsonii,Mixornis_gularis,Prunella_strophiata,,,,,Heterophasia picaoides
+Columba_leuconota,Monticola_rufiventris,Psarisomus_dalhousiae,,,,,Heterophasia pulchella
+Columba_livia,Myophonus_caeruleus,Pteruthius_melanotis,,,,,Cuculus fugax
+Columba_pulchricollis,Myzornis_pyrrhoura,Pteruthius_rufiventer,,,,,Cuculus sparverioides
+Conostoma_oemodium,Napothera_epilepidota,Pycnonotus_flaviventris,,,,,Hypothymis azurea
+Copsychus_malabaricus,Niltava_grandis,Pyrrhula_erythaca,,,,,Hypsipetes leucocephalus
+Copsychus_saularis,Niltava_macgrigoriae,Pyrrhula_erythrocephala,,,,,Hypsipetes mcclellandii
+Coracias_benghalensis,Nisaetus_nipalensis,Pyrrhula_nipalensis,,,,,Garrulax ocellatus
+Coracina_macei,Nucifraga_caryocatactes,Rhipidura_albicollis,,,,,Ictinaetus malayensis
+Coracina_melanoptera,Nyctyornis_athertoni,Rimator_malacoptilus,,,,,Irena puella
+Coracina_melaschistos,Oriolus_traillii,Schoeniparus_castaneceps,,,,,Leiothrix argentauris
+Corvus_corax,Orthotomus_sutorius,Sitta_cinnamoventris,,,,,Leucosticte nemoricola
+Corvus_culminatus,Parus_monticolus,Sitta_formosa,,,,,Liocichla bugunorum
+Corvus_japonensis,Pellorneum_ruficeps,Sitta_himalayensis,,,,,Liocichla phoenicea
+Corvus_splendens,Pericrocotus_brevirostris,Spelaeornis_caudatus,,,,,Alcippe chrysotis
+Cuculus_canorus,Pericrocotus_ethologus,Spelaeornis_troglodytoides,,,,,Lophura leucomelanos
+Cuculus_micropterus,Pericrocotus_flammeus,Stachyris_nigriceps,,,,,Macronous gularis
+Cuculus_poliocephalus,Pericrocotus_solaris,Sylviparus_modestus,,,,,Macropygia unchall
+Cuculus_saturatus,Periparus_ater,Tarsiger_hyperythrus,,,,,Malacocincla abbotti
+Culicicapa_ceylonensis,Periparus_rubidiventris,Tarsiger_indicus,,,,,Megalaima asiatica
+Cutia_nipalensis,Pernis_ptilorhynchus,Tarsiger_rufilatus,,,,,Megalaima australis
+Cyornis_magnirostris,Phaenicophaeus_tristis,Tesia_cyaniventer,,,,,Megalaima franklinii
+Cyornis_poliogenys,Phoenicurus_frontalis,Tesia_olivea,,,,,Megalaima lineata
+Cyornis_rubeculoides,Phoenicurus_schisticeps,Treron_sphenurus,,,,,Megalaima virens
+Cyornis_tickelliae,Phyllergates_cucullatus,Trochalopteron_affine,,,,,Melanochlora sultanea
+Cyornis_unicolor,Phylloscopus_castaniceps,Trochalopteron_imbricatum,,,,,Microhierax melanoleucos
+Cypsiurus_balasiensis,Phylloscopus_chloronotus,Trochalopteron_squamatum,,,,,Celeus brachyurus
+Delichon_dasypus,Phylloscopus_fuscatus,Trochalopteron_subunicolor,,,,,Minla cyanouroptera
+Delichon_nipalense,Phylloscopus_intermedius,Urocissa_flavirostris,,,,,Minla ignotincta
+Dendrocitta_formosae,Phylloscopus_maculipennis,Yuhina_bakeri,,,,,Minla strigula
+Dendrocitta_frontalis,Phylloscopus_poliogenys,Yuhina_flavicollis,,,,,Monticola rufiventris
+Dendrocitta_vagabunda,Phylloscopus_pulcher,Yuhina_gularis,,,,,Mulleripicus pulverulentus
+Dendrocopos_canicapillus,Phylloscopus_reguloides,Yuhina_nigrimenta,,,,,Muscicapa ferruginea
+Dendrocopos_cathpharius,Phylloscopus_trochiloides,Yuhina_occipitalis,,,,,Muscicapa sibirica
+Dendrocopos_darjellensis,Phylloscopus_whistleri,Zoothera_dauma,,,,,Muscicapella hodgsoni
+Dendrocopos_macei,Phylloscopus_xanthoschistos,Zoothera_dixoni,,,,,Mycerobas melanozanthos
+Dicaeum_chrysorrheum,Picus_chlorolophus,Zoothera_mollissima,,,,,Cinclidium leucurum
+Dicaeum_cruentatum,Pnoepyga_albiventer,Zosterops_palpebrosus,,,,,Myophonus caeruleus
+Dicaeum_erythrorhynchos,Pnoepyga_pusilla,Blythipicus_pyrrhotis,,,,,Myzornis pyrrhoura
+Dicaeum_ignipectus,Polyplectron_bicalcaratum,Leiothrix_argentauris,,,,,Napothera epilepidota
+Dicaeum_melanoxanthum,Pomatorhinus_ferruginosus,Phaenicophaeus_tristis,,,,,Niltava grandis
+Dicaeum_minullum,Pomatorhinus_ruficollis,Pycnonotus_striatus,,,,,Niltava macgrigoriae
+Dicrurus_aeneus,Pomatorhinus_schisticeps,Pyrrhoplectes_epauletta,,,,,Niltava sundara
+Dicrurus_annectans,Pomatorhinus_superciliaris,,,,,,Nisaetus nipalensis
+Dicrurus_caerulescens,Prinia_atrogularis,,,,,,Nucifraga caryocatactes
+Dicrurus_hottentottus,Procarduelis_nipalensis,,,,,,Nyctyornis athertoni
+Dicrurus_leucophaeus,Prunella_immaculata,,,,,,Oriolus traillii
+Dicrurus_macrocercus,Prunella_strophiata,,,,,,Oriolus xanthornus
+Dicrurus_paradiseus,Psarisomus_dalhousiae,,,,,,Orthotomus sutorius
+Dicrurus_remifer,Psilopogon_asiaticus,,,,,,Paradoxornis atrosuperciliaris
+Dinopium_shorii,Psilopogon_australis,,,,,,Paradoxornis gularis
+Dryonastes_caerulatus,Psilopogon_franklinii,,,,,,Paradoxornis nipalensis
+Dryonastes_gularis,Psilopogon_virens,,,,,,Paradoxornis ruficeps
+Dryonastes_ruficollis,Psittiparus_ruficeps,,,,,,Paradoxornis unicolor
+Ducula_aenea,Pteruthius_aeralatus,,,,,,Parus spilonotus
+Ducula_badia,Pteruthius_melanotis,,,,,,Pellorneum ruficeps
+Dumetia_hyperythra,Pteruthius_rufiventer,,,,,,Pericrocotus brevirostris
+Emberiza_godlewskii,Pteruthius_xanthochlorus,,,,,,Pericrocotus ethologus
+Enicurus_immaculatus,Pycnonotus_flaviventris,,,,,,Pericrocotus solaris
+Enicurus_leschenaulti,Pycnonotus_striatus,,,,,,Pericrocotus flammeus
+Enicurus_maculatus,Pyrrhoplectes_epauletta,,,,,,Pernis ptilorhyncus
+Enicurus_schistaceus,Pyrrhula_erythaca,,,,,,Phaenicophaeus tristis
+Enicurus_scouleri,Pyrrhula_erythrocephala,,,,,,Phoenicurus frontalis
+Erpornis_zantholeuca,Pyrrhula_nipalensis,,,,,,Orthotomus cuculatus
+Eudynamys_scolopaceus,Rhipidura_albicollis,,,,,,Phylloscopus affinis
+Eumyias_thalassinus,Rhyticeros_undulatus,,,,,,Phylloscopus cantator
+Eurystomus_orientalis,Rimator_malacoptilus,,,,,,Phylloscopus chloronotus
+Ficedula_hyperythra,Schoeniparus_castaneceps,,,,,,Phylloscopus maculipennis
+Ficedula_monileger,Schoeniparus_cinereus,,,,,,Phylloscopus magnirostris
+Ficedula_sapphira,Sibia_waldeni,,,,,,Phylloscopus pulcher
+Ficedula_strophiata,Sitta_cinnamoventris,,,,,,Phylloscopus reguloides
+Ficedula_superciliaris,Sitta_formosa,,,,,,Phylloscopus xanthoschistos
+Ficedula_tricolor,Sitta_himalayensis,,,,,,Picumnus innominatus
+Ficedula_westermanni,Siva_cyanouroptera,,,,,,Picus canus
+Fulvetta_ludlowi,Spelaeornis_caudatus,,,,,,Picus chlorolophus
+Fulvetta_vinipectus,Spelaeornis_troglodytoides,,,,,,Picus flavinucha
+Gampsorhynchus_rufulus,Spilornis_cheela,,,,,,Pinicola subhimachala
+Garrulax_albogularis,Spinus_thibetanus,,,,,,Pitta nipalensis
+Garrulax_leucolophus,Stachyris_humei,,,,,,Pitta sordida
+Garrulax_monileger,Stachyris_nigriceps,,,,,,Pnoepyga albiventer
+Garrulax_pectoralis,Suthora_nipalensis,,,,,,Pnoepyga pusilla
+Garrulus_glandarius,Sylviparus_modestus,,,,,,Polyplectron bicalcaratum
+Gecinulus_grantia,Tarsiger_hyperythrus,,,,,,Pomatorhinus ferruginosus
+Glaucidium_brodiei,Tarsiger_indicus,,,,,,Pomatorhinus ruficollis
+Glaucidium_cuculoides,Tarsiger_rufilatus,,,,,,Pomatorhinus schisticeps
+Glaucidium_radiatum,Tephrodornis_virgatus,,,,,,Psarisomus dalhousiae
+Gracula_religiosa,Tesia_cyaniventer,,,,,,Psittacula alexandri
+Gracupica_contra,Tesia_olivea,,,,,,Pteruthius flaviscapis
+Grammatoptila_striata,Tragopan_blythii,,,,,,Pteruthius melanotis
+Grandala_coelicolor,Treron_sphenurus,,,,,,Pteruthius rufiventer
+Haematospiza_sipahi,Trochalopteron_affine,,,,,,Pteruthius xanthochlorus
+Halcyon_coromanda,Trochalopteron_erythrocephalus,,,,,,Pycnonotus melanicterus
+Halcyon_smyrnensis,Trochalopteron_imbricatum,,,,,,Pycnonotus striatus
+Harpactes_erythrocephalus,Trochalopteron_squamatum,,,,,,Pyrrhoplectes epauletta
+Harpactes_wardi,Trochalopteron_subunicolor,,,,,,Pyrrhula erythaca
+Hemiprocne_coronata,Urocissa_flavirostris,,,,,,Pyrrhula nipalensis
+Hemipus_picatus,Yuhina_bakeri,,,,,,Rhipidura albicollis
+Hemixos_flavala,Yuhina_castaniceps,,,,,,Rimator malacoptilus
+Heterophasia_annectans,Yuhina_flavicollis,,,,,,Sasia ochracea
+Heterophasia_capistrata,Yuhina_gularis,,,,,,Alcippe castaneceps
+Heterophasia_picaoides,Yuhina_nigrimenta,,,,,,Alcippe cinerea
+Heterophasia_pulchella,Yuhina_occipitalis,,,,,,Seicercus castaniceps
+Heteroxenicus_stellatus,Zoothera_dauma,,,,,,Seicercus poliogenys
+Hierococcyx_nisicolor,Zoothera_dixoni,,,,,,Seicercus whistleri
+Hierococcyx_sparverioides,Zoothera_mollissima,,,,,,Actinodura waldeni
+Hierococcyx_varius,Zosterops_palpebrosus,,,,,,Sitta castanea
+Hirundapus_caudacutus,,,,,,,Sitta formosa
+Hirundapus_cochinchinensis,,,,,,,Sitta himalayensis
+Hirundo_daurica,,,,,,,Spelaeornis caudatus
+Hirundo_rustica,,,,,,,Spelaeornis formosus
+Hodgsonius_phaenicuroides,,,,,,,Spelaeornis troglodytoides
+Hypopicus_hyperythrus,,,,,,,Sphenocichla humei
+Hypothymis_azurea,,,,,,,Spilornis cheela
+Hypsipetes_leucocephalus,,,,,,,Stachyris ruficeps
+Hypsipetes_mcclellandi,,,,,,,Stachyris chrysaea
+Ianthocincla_ocellata,,,,,,,Stachyris nigriceps
+Ianthocincla_rufogularis,,,,,,,Yuhina castaniceps
+Indicator_xanthonotus,,,,,,,Surniculus lugubris
+Irena_puella,,,,,,,Sylviparus modestus
+Ketupa_flavipes,,,,,,,Tephrodornis gularis
+Ketupa_zeylonensis,,,,,,,Terpsiphone paradisi
+Lanius_schach,,,,,,,Tesia castaneocoronata
+Lanius_tephronotus,,,,,,,Tesia cyaniventer
+Leiothrix_argentauris,,,,,,,Tesia olivea
+Leiothrix_lutea,,,,,,,Tickellia hodgsoni
+Leptopoecile_sophiae,,,,,,,Tragopan blythii
+Leucosticte_nemoricola,,,,,,,Tragopan temminckii
+Liocichla_bugunorum,,,,,,,Treron apicauda
+Liocichla_phoenicea,,,,,,,Treron curvirostra
+Lioparus_chrysotis,,,,,,,Treron sphenurus
+Lonchura_atricapilla,,,,,,,Garrulax affinis
+Lonchura_punctulata,,,,,,,Garrulax erythrocephalus
+Lonchura_striata,,,,,,,Garrulax lineatus
+Loriculus_vernalis,,,,,,,Garrulax squamatus
+Loxia_curvirostra,,,,,,,Garrulax subunicolor
+Luscinia_brunnea,,,,,,,Urocissa flavirostris
+Macronous_gularis,,,,,,,Xiphirhynchus superciliaris
+Macropygia_unchall,,,,,,,Yuhina bakeri
+Malacocincla_abbotti,,,,,,,Yuhina flavicollis
+Megalaima_asiatica,,,,,,,Yuhina gularis
+Megalaima_australis,,,,,,,Yuhina nigrimenta
+Megalaima_franklinii,,,,,,,Yuhina occipitalis
+Megalaima_haemacephala,,,,,,,Accipiter_nisus
+Megalaima_lineata,,,,,,,Accipiter_trivirgatus
+Megalaima_virens,,,,,,,Accipiter_virgatus
+Megalurus_palustris,,,,,,,Arborophila_mandellii
+Melanochlora_sultanea,,,,,,,Arborophila_rufogularis
+Melanocorypha_maxima,,,,,,,Arborophila_torqueola
+Melophus_lathami,,,,,,,Buteo_refectus
+Merops_leschenaulti,,,,,,,Dinopium_javanese
+Merops_orientalis,,,,,,,Ficedula_albicilla
+Microhierax_caerulescens,,,,,,,Gallus_gallus
+Micropternus_brachyurus,,,,,,,Hypothymis_azurea
+Minla_cyanouroptera,,,,,,,Lophotriorchis_kienerii
+Minla_ignotincta,,,,,,,Lophura_leucomelanos
+Minla_strigula,,,,,,,Mixornis_gularis
+Mirafra_assamica,,,,,,,Nisaetus_nipalensis
+Monticola_cinclorhynchus,,,,,,,Pernis_ptilorhynchus
+Monticola_rufiventris,,,,,,,Polyplectron_bicalcaratum
+Montifringilla_taczanowskii,,,,,,,Pteruthius_aeralatus
+Motacilla_alba,,,,,,,Sibia_waldeni
+Motacilla_cinerea,,,,,,,Spilornis_cheela
+Motacilla_maderaspatensis,,,,,,,Spinus_thibetanus
+Mulleripicus_pulverulentus,,,,,,,Tragopan_blythii
+Muscicapa_ferruginea,,,,,,,
+Muscicapa_sibirica,,,,,,,
+Muscicapella_hodgsoni,,,,,,,
+Mycerobas_affinis,,,,,,,
+Mycerobas_carnipes,,,,,,,
+Mycerobas_melanozanthos,,,,,,,
+Myiomela_leucura,,,,,,,
+Myophonus_caeruleus,,,,,,,
+Myzornis_pyrrhoura,,,,,,,
+Napothera_epilepidota,,,,,,,
+Niltava_grandis,,,,,,,
+Niltava_macgrigoriae,,,,,,,
+Niltava_sundara,,,,,,,
+Ninox_scutulata,,,,,,,
+Nucifraga_caryocatactes,,,,,,,
+Nyctyornis_athertoni,,,,,,,
+Oriolus_kundoo,,,,,,,
+Oriolus_tenuirostris,,,,,,,
+Oriolus_traillii,,,,,,,
+Oriolus_xanthornus,,,,,,,
+Orthotomus_sutorius,,,,,,,
+Otus_bakkamoena,,,,,,,
+Otus_lettia,,,,,,,
+Otus_spilocephalus,,,,,,,
+Otus_sunia,,,,,,,
+Paradoxornis_atrosuperciliaris,,,,,,,
+Paradoxornis_flavirostris,,,,,,,
+Paradoxornis_fulvifrons,,,,,,,
+Paradoxornis_gularis,,,,,,,
+Paradoxornis_nipalensis,,,,,,,
+Paradoxornis_ruficeps,,,,,,,
+Paradoxornis_unicolor,,,,,,,
+Parus_ater,,,,,,,
+Parus_dichrous,,,,,,,
+Parus_major,,,,,,,
+Parus_monticolus,,,,,,,
+Parus_rubidiventris,,,,,,,
+Parus_spilonotus,,,,,,,
+Parus_xanthogenys,,,,,,,
+Passer_domesticus,,,,,,,
+Passer_montanus,,,,,,,
+Passer_rutilans,,,,,,,
+Pelargopsis_capensis,,,,,,,
+Pellorneum_albiventre,,,,,,,
+Pellorneum_ruficeps,,,,,,,
+Pellorneum_tickelli,,,,,,,
+Pericrocotus_brevirostris,,,,,,,
+Pericrocotus_cinnamomeus,,,,,,,
+Pericrocotus_ethologus,,,,,,,
+Pericrocotus_solaris,,,,,,,
+Pericrocotus_speciosus,,,,,,,
+Phaenicophaeus_tristis,,,,,,,
+Phodilus_badius,,,,,,,
+Phoenicurus_frontalis,,,,,,,
+Phoenicurus_ochruros,,,,,,,
+Phoenicurus_schisticeps,,,,,,,
+Phyllergates_cucullatus,,,,,,,
+Phylloscopus_affinis,,,,,,,
+Phylloscopus_cantator,,,,,,,
+Phylloscopus_chloronotus,,,,,,,
+Phylloscopus_fuligiventer,,,,,,,
+Phylloscopus_maculipennis,,,,,,,
+Phylloscopus_magnirostris,,,,,,,
+Phylloscopus_pulcher,,,,,,,
+Phylloscopus_reguloides,,,,,,,
+Phylloscopus_trochiloides,,,,,,,
+Phylloscopus_xanthoschistos,,,,,,,
+Pica_pica,,,,,,,
+Picumnus_innominatus,,,,,,,
+Picus_canus,,,,,,,
+Picus_chlorolophus,,,,,,,
+Picus_flavinucha,,,,,,,
+Picus_xanthopygaeus,,,,,,,
+Pitta_nipalensis,,,,,,,
+Pitta_sordida,,,,,,,
+Ploceus_benghalensis,,,,,,,
+Ploceus_manyar,,,,,,,
+Ploceus_megarhynchus,,,,,,,
+Ploceus_philippinus,,,,,,,
+Pnoepyga_albiventer,,,,,,,
+Pnoepyga_pusilla,,,,,,,
+Pomatorhinus_erythrogenys,,,,,,,
+Pomatorhinus_ferruginosus,,,,,,,
+Pomatorhinus_hypoleucos,,,,,,,
+Pomatorhinus_ruficollis,,,,,,,
+Pomatorhinus_schisticeps,,,,,,,
+Prinia_atrogularis,,,,,,,
+Prinia_cinereocapilla,,,,,,,
+Prinia_crinigera,,,,,,,
+Prinia_flaviventris,,,,,,,
+Prinia_hodgsonii,,,,,,,
+Prinia_inornata,,,,,,,
+Prinia_rufescens,,,,,,,
+Prinia_socialis,,,,,,,
+Prinia_sylvatica,,,,,,,
+Propyrrhula_subhimachala,,,,,,,
+Prunella_collaris,,,,,,,
+Prunella_immaculata,,,,,,,
+Prunella_rubeculoides,,,,,,,
+Prunella_strophiata,,,,,,,
+Psarisomus_dalhousiae,,,,,,,
+Pseudopodoces_humilis,,,,,,,
+Psittacula_alexandri,,,,,,,
+Psittacula_eupatria,,,,,,,
+Psittacula_finschii,,,,,,,
+Psittacula_himalayana,,,,,,,
+Psittacula_krameri,,,,,,,
+Psittacula_roseata,,,,,,,
+Pteruthius_flaviscapis,,,,,,,
+Pteruthius_melanotis,,,,,,,
+Pteruthius_rufiventer,,,,,,,
+Pteruthius_xanthochlorus,,,,,,,
+Ptyonoprogne_rupestris,,,,,,,
+Pycnonotus_cafer,,,,,,,
+Pycnonotus_flaviventris,,,,,,,
+Pycnonotus_jocosus,,,,,,,
+Pycnonotus_leucogenys,,,,,,,
+Pycnonotus_striatus,,,,,,,
+Pyrrhocorax_graculus,,,,,,,
+Pyrrhocorax_pyrrhocorax,,,,,,,
+Pyrrhoplectes_epauletta,,,,,,,
+Pyrrhospiza_punicea,,,,,,,
+Pyrrhula_erythaca,,,,,,,
+Pyrrhula_erythrocephala,,,,,,,
+Pyrrhula_nipalensis,,,,,,,
+Regulus_regulus,,,,,,,
+Rhipidura_albicollis,,,,,,,
+Rhyacornis_fuliginosa,,,,,,,
+Rimator_malacoptilus,,,,,,,
+Riparia_chinensis,,,,,,,
+Sasia_ochracea,,,,,,,
+Saxicola_caprata,,,,,,,
+Saxicola_ferreus,,,,,,,
+Saxicola_jerdoni,,,,,,,
+Saxicola_leucurus,,,,,,,
+Schoeniparus_castaneceps,,,,,,,
+Schoeniparus_cinerea,,,,,,,
+Schoeniparus_dubia,,,,,,,
+Schoeniparus_rufogularis,,,,,,,
+Seicercus_affinis,,,,,,,
+Seicercus_burkii,,,,,,,
+Seicercus_castaniceps,,,,,,,
+Seicercus_poliogenys,,,,,,,
+Seicercus_whistleri,,,,,,,
+Serilophus_lunatus,,,,,,,
+Sitta_cinnamoventris,,,,,,,
+Sitta_formosa,,,,,,,
+Sitta_frontalis,,,,,,,
+Sitta_himalayensis,,,,,,,
+Spelaeornis_caudatus,,,,,,,
+Spelaeornis_formosus,,,,,,,
+Spelaeornis_troglodytoides,,,,,,,
+Sphenocichla_humei,,,,,,,
+Stachyridopsis_chrysaea,,,,,,,
+Stachyridopsis_ruficeps,,,,,,,
+Stachyridopsis_rufifrons,,,,,,,
+Stachyris_nigriceps,,,,,,,
+Staphida_castaniceps,,,,,,,
+Streptopelia_chinensis,,,,,,,
+Streptopelia_decaocto,,,,,,,
+Streptopelia_orientalis,,,,,,,
+Streptopelia_tranquebarica,,,,,,,
+Strix_leptogrammica,,,,,,,
+Strix_nivicola,,,,,,,
+Sturnia_malabarica,,,,,,,
+Surniculus_lugubris,,,,,,,
+Sylviparus_modestus,,,,,,,
+Tachymarptis_melba,,,,,,,
+Tarsiger_chrysaeus,,,,,,,
+Tarsiger_hyperythrus,,,,,,,
+Tarsiger_indicus,,,,,,,
+Tarsiger_rufilatus,,,,,,,
+Tephrodornis_gularis,,,,,,,
+Terpsiphone_paradisi,,,,,,,
+Tesia_castaneocoronata,,,,,,,
+Tesia_cyaniventer,,,,,,,
+Tesia_olivea,,,,,,,
+Tickellia_hodgsoni,,,,,,,
+Timalia_pileata,,,,,,,
+Treron_apicauda,,,,,,,
+Treron_bicinctus,,,,,,,
+Treron_curvirostra,,,,,,,
+Treron_phayrei,,,,,,,
+Treron_phoenicopterus,,,,,,,
+Treron_sphenurus,,,,,,,
+Trochalopteron_affine,,,,,,,
+Trochalopteron_erythrocephalum,,,,,,,
+Trochalopteron_imbricatum,,,,,,,
+Trochalopteron_squamatum,,,,,,,
+Trochalopteron_subunicolor,,,,,,,
+Troglodytes_troglodytes,,,,,,,
+Turdoides_earlei,,,,,,,
+Turdoides_longirostris,,,,,,,
+Turdoides_nipalensis,,,,,,,
+Turdoides_striata,,,,,,,
+Turdus_albocinctus,,,,,,,
+Turdus_boulboul,,,,,,,
+Turdus_unicolor,,,,,,,
+Tyto_longimembris,,,,,,,
+Upupa_epops,,,,,,,
+Urocissa_erythrorhyncha,,,,,,,
+Urocissa_flavirostris,,,,,,,
+Xiphirhynchus_superciliaris,,,,,,,
+Yuhina_bakeri,,,,,,,
+Yuhina_flavicollis,,,,,,,
+Yuhina_gularis,,,,,,,
+Yuhina_nigrimenta,,,,,,,
+Yuhina_occipitalis,,,,,,,
+Zoonavena_sylvatica,,,,,,,
+Zoothera_citrina,,,,,,,
+Zoothera_dauma,,,,,,,
+Zoothera_dixoni,,,,,,,
+Zoothera_marginata,,,,,,,
+Zoothera_mollissima,,,,,,,
+Zoothera_monticola,,,,,,,
+Zoothera_wardii,,,,,,,
+Zosterops_palpebrosus,,,,,,,
